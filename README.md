@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I'm Mateusz. I'm currently a Lead R&D Developer, working on Unreal Engine pipeline at Platige Image.
 
 <!--
 **mateuszwojt/mateuszwojt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
