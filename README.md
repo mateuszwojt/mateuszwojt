@@ -1,16 +1,16 @@
-Hi, I'm Mateusz. I'm currently a Lead R&D Developer, working on Unreal Engine pipeline at Platige Image.
+# Hi there, I'm Mateusz 👋
 
-<!--
-**mateuszwojt/mateuszwojt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Lead R&D Developer** at Platige Image, where I focus on **Unreal Engine** development for VFX and Animation pipelines. I specialize in **real-time rendering**, tool development, and CI/CD automation, crafting solutions that push creative and technical boundaries.
 
-Here are some ideas to get you started:
+## 🔧 What I'm Working On
+- Exploring Cleveland Music Co. Hothouse DSP Pedal Kit, learning how to code Daisy Seed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Learning
+- Cloud & Infrastructure as Code: Kubernetes, Terraform, Packer, Pulumi
+
+## 🎵 Other Interests
+- Electronic music production, modular synthesis
+- Procedural workflows, simulation, and rendering tech
+- 🍺 Beer brewing
+
+Feel free to connect or check out my projects here! 🚀
